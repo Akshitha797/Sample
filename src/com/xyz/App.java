@@ -8,6 +8,6 @@ public class App {
 		// TODO Auto-generated method stub
         Demo d=new Demo();
         System.out.println(d.num);
+        
 	}
-
 }
