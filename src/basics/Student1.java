@@ -1,6 +1,8 @@
 package basics;
 
-public class Student1 {
+import java.io.Serializable;
+
+public class Student1 implements Serializable{
 	
 	private String name;
 	private int roll;
